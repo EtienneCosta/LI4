@@ -1,5 +1,5 @@
 # LI4
-Mentor Me - Question and answer platform .
+Mentor Me - Question and answer platform . 📚✨
 
 DESCRIPTION
 ===========
